@@ -1,4 +1,3 @@
-![Welcome Banner](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 <h1> Hi! I'm Mohammad Taha Majlesi <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
@@ -20,7 +19,6 @@
 👨‍🏫 &nbsp;Teaching Assistant for multiple programming courses at **University of Tehran**.  
 🌱 &nbsp;Mountaineering and ecotourism are my favorite hobbies.  
 📩 &nbsp;Reach me at: [tahamaj4@gmail.com](mailto:tahamaj4@gmail.com).  
-📄 &nbsp;Check my [RESUME](https://raw.githubusercontent.com/mostafa-kermaninia/about_me_PRO/master/assets/resume.pdf) for more details.
 
 ---
 
@@ -53,9 +51,7 @@
 🔹 **[Advanced Programming Projects (C++)](https://github.com/tahamajs/)**  
 🔹 **[Django Bootcamp Tasks (Quera)](https://github.com/tahamajs/Django_Bootcamp_tasks_Quera)**  
 🔹 **[AI Projects (Jupyter Notebooks)](https://github.com/tahamajs/)**  
-🔹 **Fantasy Football Application (C++)** - Built a simulation game in C++.  
-🔹 **Computer Architecture Projects (Verilog)** - Digital design & architecture.  
-🔹 **Course Selection System (Python)** - University course selection system.  
+
 
 ---
 
