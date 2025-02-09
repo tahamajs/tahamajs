@@ -46,29 +46,7 @@
 
 ---
 
-## 💼 Experience
 
-🔹 **Teaching Assistant - University of Tehran**  
-- *Advanced Programming (Sep 2024 - Present) – Prof. Ramtin Khosravi*  
-- *Fundamentals of Programming (Mar 2024 - Sep 2024) – Prof. Mohammad Javad Dousti*  
-- *Fundamentals of Programming (Sep 2024 - Feb 2025) – Prof. Hadi Moradi & Prof. Mahmoud Reza Hashemi*  
-
-🔹 **Django Software Engineer Intern - Quera (Jul 2023 - Dec 2023)**  
-- Developed software solutions using **Django & Django REST Framework**.  
-
----
-
-## 📜 Certifications
-
-🎓 **Data Analyst Career Guide & Interview Prep** - IBM *(Sep 2024)*  
-🎓 **Fundamentals of Reinforcement Learning** - University of Alberta *(Sep 2024)*  
-🎓 **MLOps Specialization** - Duke University *(Sep 2024)*  
-🎓 **Django for Everybody Specialization** - Michigan Online *(Sep 2023)*  
-🎓 **Machine Learning Specialization** - Stanford Online *(Aug 2023)*  
-🎓 **Programming with Google Go** - UC Irvine *(Aug 2023)*  
-🎓 **Advanced Algorithmic Thinking & Data Structures** - Quera *(Jul 2023)*  
-
----
 
 ## 📂 Featured Projects
 
