@@ -1,4 +1,4 @@
-![Taha Majlesi Banner](https://raw.githubusercontent.com/mostafa-kermaninia/about_me_PRO/master/assets/NATURE.jpg)
+![Taha Majlesi Banner]([https://raw.githubusercontent.com/mostafa-kermaninia/about_me_PRO/master/assets/NATURE.jpg](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif))
 
 <h1> Hi! I'm Mohammad Taha Majlesi <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
