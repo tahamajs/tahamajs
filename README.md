@@ -7,7 +7,6 @@ now im learning about LLMs
   <a href="https://www.linkedin.com/in/tahamajlesi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/tahamajlesi"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/tahamajs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="http://huggingface.co/tahamajs/"><img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black"></a>
 </p>
 
 ---
@@ -64,7 +63,6 @@ now im learning about LLMs
   <a href="https://github.com/tahamajs"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"></a>
   <a href="https://x.com/tahamajlesi"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/tahamajs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="http://huggingface.co/tahamajs/"><img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black"></a>
 </p>
 
 ---
