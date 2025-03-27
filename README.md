@@ -1,7 +1,6 @@
 
 <h1> Hi! I'm Mohammad Taha Majlesi <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-now im learning about LLMs
 <p align="center">
   <a href="https://github.com/tahamajs"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tahamajlesi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
