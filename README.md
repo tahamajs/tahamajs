@@ -1,11 +1,9 @@
 
-<h1> Hi! I'm Mohammad Taha Majlesi <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> Hi! I'm Taha <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
 <p align="center">
   <a href="https://github.com/tahamajs"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tahamajlesi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/tahamajlesi"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
-  <a href="https://www.instagram.com/tahamajs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -41,18 +39,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
----
-
-
-
-## 📂 Featured Projects
-
-🔹 **[Advanced Programming Projects (C++)](https://github.com/tahamajs/)**  
-🔹 **[Django Bootcamp Tasks (Quera)](https://github.com/tahamajs/Django_Bootcamp_tasks_Quera)**  
-🔹 **[AI Projects (Jupyter Notebooks)](https://github.com/tahamajs/)**  
-
-
----
 
 ## 🤝🏻 Connect with Me
 
@@ -60,16 +46,4 @@
   <a href="https://www.linkedin.com/in/tahamajlesi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:tahamaj4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/tahamajs"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://x.com/tahamajlesi"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"></a>
-  <a href="https://www.instagram.com/tahamajs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
-
----
-
-## <img src="https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif" width="50"/> More Info
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamajs&theme=dark&langs_count=12&layout=compact" alt="Top_Langs"/>
-</a>
-
----
