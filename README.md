@@ -1,5 +1,5 @@
 
-<h1> Hi! I'm Mohammad Taha Majlesi <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1> Hi! I'm  Taha Majlesi </h1>
 
 <p align="center">
   <a href="https://github.com/tahamajs"><img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white"></a>
@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> About Me
+##  About Me
 
 💡 &nbsp;I enjoy exploring new technologies and developing AI-based solutions.  
 🎓 &nbsp;Currently pursuing a **Bachelor's degree in Computer Engineering** at the **University of Tehran** *(2022 - 2026)*.  
